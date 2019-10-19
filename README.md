@@ -1,2 +1,3 @@
-# 2019-10-shiny-academia-business
-Shiny development in an academic vs business setting (Praer Owlarn)
+[Slides](https://github.com/DusRUG/20191017-shiny-academia-business/blob/master/20191017_RUG_shiny_development.pdf) from Praer's talk "Shiny development in an academic vs business setting"
+
+[Shiny](https://shiny.rstudio.com) is a popular R package for building interactive web apps – no web development knowledge required! Its ease-of-use and extendibility makes it popular in both academic and business settings, but implementation in the two environments can be rather different. I’ll share my experience writing shiny apps at a Max Planck Institute (a non-profit research institute) and trivago (a German hotel search engine), and how differences in task complexity, IT infrastructure and organisational mindset affected my approaches and the packages I used.
